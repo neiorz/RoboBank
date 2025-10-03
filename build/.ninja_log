@@ -1,0 +1,5 @@
+# ninja log v7
+16	2366	7812359264797054	CMakeFiles/RoboBankDemo.dir/src/main.cpp.obj	a9a75873a7ac5bb7
+46	2400	7812361251112655	CMakeFiles/RoboBankCalc.dir/src/RoboBankCalc.cpp.obj	1616c024e69fdd28
+2402	3528	7812361274671632	libRoboBankCalc.a	68df69f821a8fd22
+3529	4673	7812361285938552	RoboBankDemo.exe	e72886eea43f6323
